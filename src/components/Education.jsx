@@ -11,7 +11,7 @@ const Edu_details = [
     icon: <MdSchool size="120px" />,
     name: "Netaji Subhash Engineering College",
     degree: "Bachelor Of Technology",
-    stream: "Computer Science Engineering",
+    stream: "Computer Science & Engineering",
     marks: "7.66 YGPA",
     fromTo: "July 2016 - July 2020",
     id: 1
