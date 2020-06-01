@@ -1,0 +1,31 @@
+.header {
+    background: #000033;
+    color: white;
+}
+
+.header-in {
+    text-align: center;
+    font-family: serif;
+    margin-top: 1rem;
+    padding-top: 3rem;
+    box-shadow: 2px 2px 2px white
+}
+
+.college-box {
+    display: flex;
+    background: #000033;
+    padding: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.college-box div {
+    margin: 10px
+}
+
+.collegeCard {
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+    font-family: serif;
+}

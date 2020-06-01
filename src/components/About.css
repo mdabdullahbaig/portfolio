@@ -1,0 +1,48 @@
+.about-in {
+    text-align: center;
+    font-family: serif;
+    margin-top: 1rem;
+    padding-top: 3rem;
+    box-shadow: 2px 2px 2px white
+}
+
+.about-box {
+    display: flex;
+    padding: 0.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.about-box div {
+    margin: 5px;
+}
+
+.nameCard {
+    padding: 25px;
+    border-radius: 15px;
+    font-family: serif;
+    text-align: center
+}
+
+.social-icon {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.social-brand-icon {
+    color: #fa0355;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    border: white solid 3px;
+    border-radius: 15px;
+    margin: 20px;
+    padding-top: 12px;
+}
+
+a:hover {
+    background-color: #fa0355;
+    text-decoration: none;
+    color: white
+}

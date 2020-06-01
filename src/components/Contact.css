@@ -1,0 +1,28 @@
+.contact-box {
+    display: flex;
+    background: #000033;
+    padding: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contact-box div {
+    margin: 8px
+}
+.contact-form {
+flex: 1;
+background: white;
+text-align: center;
+border-radius: 15px
+}
+
+.contact-card{
+flex: 1
+}
+
+
+.contact-detail {
+    padding: 8px;
+    text-align: center;
+    font-family: serif;
+}
