@@ -8,14 +8,14 @@ const project_details = [
   {
     name: "DREAM STORES",
     description: "E-commerce website built with Node.js",
-    gitLink: "",
+    gitLink: "https://github.com/mdabdullahbaig/dreamstores",
     webLink: "https://damp-badlands-99499.herokuapp.com/",
     id: 1
   },
   {
     name: " ANAS ENTERPRISES",
     description: "Personal Shop Website built with Node.js",
-    gitLink: "",
+    gitLink: "https://github.com/mdabdullahbaig/anasenterprises",
     webLink: "https://anasenterprises.herokuapp.com/",
     id: 2
   },
@@ -28,7 +28,7 @@ const project_details = [
   },
   {
     name: "NEW PROJECT",
-    description: "This website is part of my final year project.",
+    description: "This website is part of my final year project. Coming soon...",
     gitLink: "",
     webLink: "",
     id: 3
