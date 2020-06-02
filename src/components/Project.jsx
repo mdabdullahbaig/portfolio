@@ -20,6 +20,13 @@ const project_details = [
     id: 2
   },
   {
+    name: "EXPENSE TRACKER",
+    description: "This App will track your expenses.",
+    gitLink: "https://github.com/mdabdullahbaig/expense_tracker",
+    webLink: "https://myexpensetracker.netlify.app/",
+    id: 3
+  },
+  {
     name: "NEW PROJECT",
     description: "This website is part of my final year project.",
     gitLink: "",
