@@ -2,7 +2,7 @@ import React from "react";
 import Wraper from "./Wraper";
 import "./Interest.css";
 
-function Interest(props) {
+function Interest() {
   return (
     <Wraper>
       <div className="header">

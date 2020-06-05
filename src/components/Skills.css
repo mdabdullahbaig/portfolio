@@ -1,6 +1,5 @@
 .skill-box {
     display: flex;
-    background: #000033;
     padding: 1rem;
     flex-wrap: wrap;
     justify-content: center;
@@ -11,7 +10,6 @@
 }
 
 .skillCard {
-    /* border: white solid 2px; */
     padding: 8px;
     border-radius: 15px;
     text-align: center;

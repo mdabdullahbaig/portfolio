@@ -9,13 +9,11 @@ function ProfileCard() {
       <WraperCard>
         <img
           style={{
-            width: "300px",
-            height: "400px",
             border: "white solid 2px",
             borderRadius: "15px"
           }}
           className="img-responsive"
-          src="https://res.cloudinary.com/diirdewi4/image/upload/c_fit,h_500,w_500/v1565131782/mypic.jpg"
+          src="https://res.cloudinary.com/diirdewi4/image/upload/c_scale,w_300/v1565131782/mdabdullahbaig-pic-react-project-portfolio.jpg"
           alt=""
         />
       </WraperCard>

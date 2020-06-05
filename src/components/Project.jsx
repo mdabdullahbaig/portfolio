@@ -31,7 +31,7 @@ const project_details = [
     description: "This website is part of my final year project. Coming soon...",
     gitLink: "",
     webLink: "",
-    id: 3
+    id: 4
   }
 ];
 

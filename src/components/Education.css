@@ -1,8 +1,3 @@
-.header {
-    background: #000033;
-    color: white;
-}
-
 .header-in {
     text-align: center;
     font-family: serif;
@@ -13,7 +8,6 @@
 
 .college-box {
     display: flex;
-    background: #000033;
     padding: 1rem;
     flex-wrap: wrap;
     justify-content: center;
