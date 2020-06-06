@@ -37,7 +37,7 @@ const socialIcons = [
     name: "Resume",
     Icon: <FaAddressCard size="50px" />,
     link:
-      "https://drive.google.com/file/d/1jhjd8B89RKIIfizuOBnkoZ30_1weDbTl/view?usp=sharing",
+      "https://drive.google.com/file/d/1tRknD68bbiBH0zbpsWXQJDblygVT-Nah/view?usp=sharing",
     id: 5
   }
 ];
